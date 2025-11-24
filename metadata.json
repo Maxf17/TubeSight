@@ -1,0 +1,5 @@
+{
+  "name": "TubeSight AI - Fr",
+  "description": "Un analyseur vidéo intelligent propulsé par Gemini 2.5 Flash. Téléchargez des fichiers vidéo pour une analyse multimodale directe (visuelle et audio) : résumés, points clés et détails techniques.",
+  "requestFramePermissions": []
+}
